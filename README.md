@@ -13,6 +13,22 @@ Detect spam in SMS messages
 
 Naive Bayes uses Bayes' Theorem with strong independence assumptions between features. It's fast and ideal for text classification.
 
+It is a classification algorithm based on probability.
+
+🎯 Goal of Naive Bayes?
+
+We use this to predict the class (like "Spam" or "Not Spam") based on some input features (like words in an email).
+
+Common Use Cases:
+
+Spam filters
+
+Sentiment analysis
+
+Document classification
+
+Medical diagnosis (e.g., predicting disease based on symptoms)
+
 ## ✅ Benefits
 
 Extremely fast and efficient
